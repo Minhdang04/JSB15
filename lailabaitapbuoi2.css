@@ -1,0 +1,28 @@
+button {
+    color: white;
+    background-color: blue;
+    border-radius: 17%%;
+    border: none;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px ;
+    border-radius: 17px;
+    width: 25%;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+img {
+    width: 15px;
+    height: 15px;
+    text-align: center;
+}
+h2,h4 {
+    display: inline;
+    color: pink;
+}

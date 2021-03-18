@@ -1,0 +1,16 @@
+
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-blue-dynamic-trend-background-image_254467.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% 250%;
+    background-position: center;
+    transform: translate(5px,50px);
+}
+p {
+    text-align: center;
+    color: whitesmoke;
+}
+h1,h2 {
+    text-align: center;
+    color: whitesmoke;
+}

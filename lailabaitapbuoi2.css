@@ -1,28 +1,38 @@
-button {
-    color: white;
-    background-color: blue;
-    border-radius: 17%%;
-    border: none;
-    padding: 20px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px ;
-    border-radius: 17px;
-    width: 25%;
-}
-h1 {
-    text-align: center;
-}
-p {
-    text-align: center;
-}
 img {
-    width: 15px;
-    height: 15px;
-    text-align: center;
+  width: 15px;
+  height: 15px;
+  text-align: center;
 }
-h2,h4 {
-    display: inline;
-    color: pink;
+
+h3 {
+    text-align: center !important;
+}
+
+h1,
+h5 {
+  display: inline !important;
+  color: red !important;
+}
+
+h6 {
+  color: gray !important;
+}
+
+p {
+  color: gray !important;
+  margin-left: 5% !important;
+}
+
+div.div-border {
+  border: 2px solid black;
+  border-radius: 8%;
+  width: fit-content;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 40%;
+  width: 25%;
+}
+
+hr {
+    margin-left: 0 im !important;
 }

@@ -29,6 +29,7 @@ p {
   margin-left: 5% !important;
 }
 
+/* This div not belongs to Bootstrap so no need !important... it just the black border */
 div.div-border {
   border: 2px solid black;
   border-radius: 8%;

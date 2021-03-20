@@ -1,8 +1,4 @@
-/* img is for tick icons */
-/* !important to force fix css to bootstrap */
-/* hr is the light haircross */
-/* h1-h6 force fix css to header */
-/* if you tried to fix css but it doesn't work perfectly... try !important */
+
 
 img {
   width: 15px;
@@ -29,7 +25,7 @@ p {
   margin-left: 5% !important;
 }
 
-/* This div not belongs to Bootstrap so no need !important... it just the black border */
+
 div.div-border {
   border: 2px solid black;
   border-radius: 8%;
